@@ -14,3 +14,5 @@ There are 2 modes
 
 So if I had to do a jump, I'd position my cruiser, then I'd press " \ " to change to my desired jump mode and then press " ] " to execute
 It does take a while to get used to but it's pretty simple
+
+Here's the download https://github.com/Rajbir98/Lethal-Company-Cruiser-Jump-AHK/raw/refs/heads/main/CruiserJump.ahk
