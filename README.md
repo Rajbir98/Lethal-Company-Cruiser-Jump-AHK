@@ -1,5 +1,9 @@
 # Cruiser Jump AHK
 
+An AHK script to automate the jump timings for cruiser jumps in artifice
+
+## How to use the script
+
 It's pretty simple to use. " \ " is to change modes, and " ] " is to execute the jumps
 
 There are 2 modes
