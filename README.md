@@ -1,22 +1,83 @@
-# Cruiser Jump AHK
+# Lethal Company Cruiser Jump Script (AutoHotkey)
 
-An AHK script to automate the jump timings for cruiser jumps in artifice
+A simple AutoHotkey script that automates cruiser jump movements in Lethal Company.  
+Includes multiple movement modes with accurate timing based on gameplay footage.
 
-## How to use the script
+---
 
-It's pretty simple to use. " \ " is to change modes, and " ] " is to execute the jumps
+## Features
 
-There are 2 modes
+- Three movement modes:
+  1. TO SHIP WITH MAGNET
+  2. TO FIRE EXIT (ECLIPSE JUMP)
+  3. TO SHIP NO MAGNET
+- Frame-accurate jump and movement timing
+- On-screen ToolTips to show current mode
+- Easy hotkey controls
 
-- D Movement, which is used to do the jump from the ship to the fire exit.
-- A Movement that is used to do the jump from the fire exit to the ship.
+---
 
-## Note: 
-- You must position the cruiser appropriately before doing any of these jumps
--  For A Movement, your cruiser must be outside the fire exit, touching the edge of the mountain.
-- For D Movement, your cruiser can be just underneath the magnet, though make sure to look at the door while doing the jump.
+## Requirements
 
-So if I had to do a jump, I'd position my cruiser, then I'd press " \ " to change to my desired jump mode and then press " ] " to execute
-It does take a while to get used to but it's pretty simple
+- AutoHotkey (https://www.autohotkey.com/)
+- Windows PC
+- Lethal Company
 
-Here's the download https://github.com/Rajbir98/Lethal-Company-Cruiser-Jump-AHK/raw/refs/heads/main/CruiserJump.ahk
+---
+
+## Installation
+
+1. Copy the script into a text file.
+2. Save it as `LethalCompanyCruiser.ahk`.
+3. Run the file by double-clicking it.
+
+---
+
+## Controls
+
+| Key | Action |
+|-----|---------|
+| `\` | Toggle between modes |
+| `]` | Run the current mode’s sequence |
+| `F11` | Exit the script |
+
+---
+
+## Modes
+
+### 1. TO SHIP WITH MAGNET
+- Uses `A` for movement.
+- Performs two short jumps, then `W + Space`, then `S + Space`.
+
+### 2. TO FIRE EXIT (ECLIPSE JUMP)
+- Uses `D` for movement.
+- Performs a triple jump, then `S + W + Space`, ending with `E`.
+
+### 3. TO SHIP NO MAGNET
+- Uses `A` for movement.
+- Frame-perfect jump version for non-magnet travel.
+
+---
+
+## Notes
+
+- Make sure you are facing the correct direction before running a sequence.
+- Adjust `Sleep` values (in milliseconds) if timing feels off.
+- The script only sends keyboard inputs — it does not modify game files.
+- Use responsibly in multiplayer.
+
+---
+
+## Credits
+
+Special thanks to **Bread** (YouTube: [@call_me_bread](https://www.youtube.com/@call_me_bread))  
+for the original gameplay footage and input timings used to base this script on.
+
+---
+
+## Example
+
+1. Press `\` to select a mode.  
+2. Press `]` to execute the jump sequence.  
+3. ToolTip will display when it finishes.  
+4. Press `F11` to close the script.
