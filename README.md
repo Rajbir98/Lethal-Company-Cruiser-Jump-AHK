@@ -5,18 +5,6 @@ Includes multiple movement modes with accurate timing based on gameplay footage.
 
 ---
 
-## Features
-
-- Three movement modes:
-  1. TO SHIP WITH MAGNET
-  2. TO FIRE EXIT (ECLIPSE JUMP)
-  3. TO SHIP NO MAGNET
-- Frame-accurate jump and movement timing
-- On-screen ToolTips to show current mode
-- Easy hotkey controls
-
----
-
 ## Requirements
 
 - AutoHotkey (https://www.autohotkey.com/)
@@ -46,16 +34,14 @@ Includes multiple movement modes with accurate timing based on gameplay footage.
 ## Modes
 
 ### 1. TO SHIP WITH MAGNET
-- Uses `A` for movement.
-- Performs two short jumps, then `W + Space`, then `S + Space`.
+I'll add a video for the line u have to do later, basically it's the back of the mountain line up if you know it
+I kinda think this one is unreliable, idk tho, I must have gotten the lineup wrong a lot of times
 
 ### 2. TO FIRE EXIT (ECLIPSE JUMP)
-- Uses `D` for movement.
-- Performs a triple jump, then `S + W + Space`, ending with `E`.
+The line up for this is simple, just drop the cruiser from the magnet, sit in, set it to driv,e look at the door(so the script can make u exit the car in case the landing isn't smooth), and activate the script
 
 ### 3. TO SHIP NO MAGNET
-- Uses `A` for movement.
-- Frame-perfect jump version for non-magnet travel.
+In this, the lineup is basically remember u put your car in a tiny wall section at the right side of the fire exit, you do the jump from there, no need to back your car up
 
 ---
 
@@ -63,8 +49,7 @@ Includes multiple movement modes with accurate timing based on gameplay footage.
 
 - Make sure you are facing the correct direction before running a sequence.
 - Adjust `Sleep` values (in milliseconds) if timing feels off.
-- The script only sends keyboard inputs — it does not modify game files.
-- Use responsibly in multiplayer.
+- The script only sends keyboard inputs — it does not modify game files. YOU WILL NOT GET BANNED FOR TS
 
 ---
 
@@ -77,7 +62,4 @@ for the original gameplay footage and input timings used to base this script on.
 
 ## Example
 
-1. Press `\` to select a mode.  
-2. Press `]` to execute the jump sequence.  
-3. ToolTip will display when it finishes.  
-4. Press `F11` to close the script.
+uhh I'll add footage of me doing it later
