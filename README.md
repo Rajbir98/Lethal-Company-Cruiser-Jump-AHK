@@ -1,4 +1,4 @@
-# Lethal Company Cruiser Jump Script (AutoHotkey)
+# Lethal Company Cruiser Jump Script (AutoHotkey) ONLY FOR ARTiFICE WILL ADD MORE LATER ON
 
 A simple AutoHotkey script that automates cruiser jump movements in Lethal Company.  
 Includes multiple movement modes with accurate timing based on gameplay footage.
