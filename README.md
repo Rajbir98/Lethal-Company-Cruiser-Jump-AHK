@@ -40,8 +40,12 @@ I kinda think this one is unreliable, idk tho, I must have gotten the lineup wro
 ### 2. TO FIRE EXIT (ECLIPSE JUMP)
 The line up for this is simple, just drop the cruiser from the magnet, sit in, set it to driv,e look at the door(so the script can make u exit the car in case the landing isn't smooth), and activate the script
 
+[![ye from this vid](https://img.youtube.com/vi/0s9emjo7t3g/0.jpg)](https://www.youtube.com/watch?v=0s9emjo7t3g)
+
 ### 3. TO SHIP NO MAGNET
 In this, the lineup is basically remember u put your car in a tiny wall section at the right side of the fire exit, you do the jump from there, no need to back your car up
+
+[![basically this](https://img.youtube.com/vi/t9mUMyGLxTE/0.jpg)](https://www.youtube.com/watch?v=t9mUMyGLxTE)
 
 ---
 
