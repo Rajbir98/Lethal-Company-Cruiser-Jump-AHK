@@ -53,7 +53,7 @@ In this, the lineup is basically remember u put your car in a tiny wall section 
 
 - Make sure you are facing the correct direction before running a sequence.
 - Adjust `Sleep` values (in milliseconds) if timing feels off.
-- The script only sends keyboard inputs — it does not modify game files. YOU WILL NOT GET BANNED FOR TS
+- The script only sends keyboard inputs; it does not modify game files. YOU WILL NOT GET BANNED FOR TS
 
 ---
 
